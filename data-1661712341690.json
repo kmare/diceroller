@@ -1,0 +1,502 @@
+[
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.5,
+        "variance": 0.25
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4714045207910317,
+        "variance": 0.22222222222222224
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4841229182759271,
+        "variance": 0.234375
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4969039949999533,
+        "variance": 0.2469135802469136
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49792959773196915,
+        "variance": 0.2479338842975206
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.5,
+        "variance": 0.25
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49851851526214314,
+        "variance": 0.24852071005917165
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4988876515698588,
+        "variance": 0.24888888888888885
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49607837082461076,
+        "variance": 0.24609375
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4921529567847504,
+        "variance": 0.2422145328719724
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.48749802152178456,
+        "variance": 0.23765432098765432
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.5,
+        "variance": 0.25
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4955356249106168,
+        "variance": 0.2455555555555555
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49422746758485125,
+        "variance": 0.2442607897153352
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4909703276914851,
+        "variance": 0.24105186267348425
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4898979485566357,
+        "variance": 0.24000000000000007
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49265877748107695,
+        "variance": 0.2427126710291493
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4948716593053937,
+        "variance": 0.2448979591836736
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4966082907921539,
+        "variance": 0.2466197944835045
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4979295977319691,
+        "variance": 0.24793388429752056
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.498887651569859,
+        "variance": 0.248888888888889
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49952718665548085,
+        "variance": 0.2495274102079396
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4998868138072653,
+        "variance": 0.24988682661837952
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.5,
+        "variance": 0.25
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.5,
+        "variance": 0.25
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.5,
+        "variance": 0.25
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49930699897395475,
+        "variance": 0.24930747922437688
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4997026464203255,
+        "variance": 0.2497027348394769
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.499928176398394,
+        "variance": 0.24992818155702373
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.5,
+        "variance": 0.25
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4999328092451442,
+        "variance": 0.24993281375974177
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4997397866074086,
+        "variance": 0.24973985431841828
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49975579974123363,
+        "variance": 0.249755859375
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49994430520729055,
+        "variance": 0.24994430830920047
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49978369023430697,
+        "variance": 0.2497837370242217
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4995271866554809,
+        "variance": 0.24952741020793964
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4995534605906533,
+        "variance": 0.24955365998809742
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.499577603529054,
+        "variance": 0.24957778194783267
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4998268398216467,
+        "variance": 0.2498268698060941
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49962036523821646,
+        "variance": 0.24962050936076882
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49963935078457083,
+        "variance": 0.24963948085242743
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49937460888595486,
+        "variance": 0.2493750000000004
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4990464921335244,
+        "variance": 0.24904740131077588
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49909193198091506,
+        "variance": 0.24909275656844232
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4987228587060337,
+        "variance": 0.2487244897959185
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4983016137540557,
+        "variance": 0.24830449826989612
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49883645608290816,
+        "variance": 0.24883780991735518
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4988876515698585,
+        "variance": 0.24888888888888852
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4985185152621431,
+        "variance": 0.24852071005917156
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49810605379954775,
+        "variance": 0.248109640831758
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.49765318130779096,
+        "variance": 0.2476586888657651
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4971626147041668,
+        "variance": 0.24717066545948377
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": true,
+        "stdDeviation": 0.4978431533051394,
+        "variance": 0.24784780529280453
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    },
+    {
+        "result": false,
+        "stdDeviation": 0,
+        "variance": 0
+    }
+]
